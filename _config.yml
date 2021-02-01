@@ -1,5 +1,5 @@
 # Site settings
-title: Reach and measure
+title: Reach and Measure
 email: hello@reachandmeasure.se
 ogimage: /assets/donuts_patrick-fore-unsplash-640.jpg
 ogurl: reachandmeasure.se
@@ -11,7 +11,7 @@ ogdescription: >- # this means to ignore newlines
 twitter_username: reachandmeasure
 github_username: reachandmeasure
 
-googlefont: Fraunces
+googlefont: Roboto
 googlefontweights: "100,400,900"
 
 # gtm: GTM-XXXX
@@ -19,9 +19,3 @@ googlefontweights: "100,400,900"
 sass:
   sass_dir: _lib
   style: compressed
-
-# https://unsplash.com/@patrickian4
-# Patrick Fore
-
-# https://unsplash.com/@pawel_czerwinski
-# Paweł Czerwiński
