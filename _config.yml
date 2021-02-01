@@ -12,7 +12,7 @@ twitter_username: reachandmeasure
 github_username: reachandmeasure
 
 googlefont: Roboto
-googlefontweights: "100,400,900"
+googlefontweights: "100;400;900"
 
 # gtm: GTM-XXXX
 
