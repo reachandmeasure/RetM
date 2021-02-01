@@ -1,0 +1,12 @@
+<head>
+    <nav>
+        <a id="logo" class="pure-menu-heading" href="/">Reach<span>&and;</span><br>measure</a>
+        <ul class="menu">
+{% for p in site.pages %}
+    {% if p.menu %}
+        <li class="menu-item"><a href="{{ p.url }}">{{ p.menu }}</a></li>
+    {% endif %}
+{% endfor %}
+        </ul>
+    </nav>
+</head>

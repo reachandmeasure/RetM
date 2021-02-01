@@ -1,0 +1,136 @@
+---
+---
+
+$base-color: #D46DED;
+$complement-color: #000;
+$text-color: #444;
+$heading-color: #333;
+$reverse-color: #ffffff;
+
+$space: 10;
+
+// Small devices (landscape phones, 576px and up)
+$small: 576px;
+// Medium devices (tablets, 768px and up)
+$medium: 768px;
+// Large devices (desktops, 992px and up)
+$large: 992px;
+// Extra large devices (large desktops, 1200px and up)
+$extralarge: 1200px;
+
+
+// Generall styles
+
+html { 
+    font: normal 400 16px/1.48 {{site.googlefont}}, Georgia, serif;
+}
+
+body { 
+    padding: $space*2px;
+    color: $text-color
+}
+
+h1, h2, h3, h4 {
+    font-weight: 800;
+    line-height: 1.2;
+    margin: $space*3px 0 $space*1.5px 0;
+    color: $heading-color;
+}
+
+p {
+    font-weight: 100;
+    margin: $space*1.5px 0 $space*2px 0;
+}
+
+a, a:link, a:visited, a:active {
+    color: $base-color;
+    font-weight:600;
+}
+
+// Logo and header
+nav {
+    display: flex;
+    flex-direction: column;
+}
+#logo {
+    font-weight: 900;
+    font-size: 22px;
+    line-height: 1;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    span {
+        color: $complement-color;
+        font-weight: 400;
+        font-size: 200%;
+    }
+}
+.menu {
+    display: flex;
+    flex: 1 1;
+    flex-direction: row;
+    justify-content: flex-end;
+    list-style: none;
+    margin: $space*1px 0;
+    padding: 0;
+
+    .menu-item {
+        align-items: center;
+        display: flex;
+        flex: 0 1 auto;
+        margin: 0 $space*.5px;
+
+        a {
+            border-radius: 1px;
+            border: 1px solid $base-color;
+            padding: $space*0.5px $space*1.5px;
+            text-decoration: none;
+            transition: background-color 200ms cubic-bezier(0.83, 0, 0.17, 1);
+
+            &:hover {
+                color: $reverse-color;
+                background-color: $base-color;
+            }
+        }
+    }
+}
+
+// Content
+
+
+// Footer
+footer {
+    border-top: 1px solid $base-color;
+    color: $complement-color;
+    margin: $space*3px 0;
+    padding: $space*1.2px 0;
+}
+
+
+
+@media (min-width: $small) { 
+    nav { flex-direction: row; }
+}
+
+@media (min-width: $medium) { 
+    nav,
+    main {
+        width:65%;
+        margin: auto;
+    }
+    footer {
+        text-align: right;
+    }
+}
+
+@media (min-width: $large) { 
+    nav,
+    main, 
+    footer {
+        padding:$space*2px;
+        width:40rem;
+        margin: auto;
+    }
+ }
+
+@media (min-width: $extralarge) {  }

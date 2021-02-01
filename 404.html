@@ -1,0 +1,15 @@
+---
+permalink: /404
+layout: normal
+---
+<div class="404">
+  <h1>404, page sad :(</h1>
+  <p>The requested page could not be found. Maybe one of these pages could do the trick?</p>
+  <ul>
+    {% for p in site.pages %}
+        {% if p.menu %}
+            <li><a href="{{ p.url }}">{{ p.menu }}</a></li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+</div>

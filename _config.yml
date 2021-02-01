@@ -1,1 +1,27 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Reach and measure
+email: hello@reachandmeasure.se
+ogimage: /assets/donuts_patrick-fore-unsplash-640.jpg
+ogurl: reachandmeasure.se
+ogtitle: Reach and measure
+ogdescription: >- # this means to ignore newlines
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+twitter_username: reachandmeasure
+github_username: reachandmeasure
+
+googlefont: Fraunces
+googlefontweights: "100,400,900"
+
+# gtm: GTM-XXXX
+
+sass:
+  sass_dir: _lib
+  style: compressed
+
+# https://unsplash.com/@patrickian4
+# Patrick Fore
+
+# https://unsplash.com/@pawel_czerwinski
+# Paweł Czerwiński
