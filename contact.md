@@ -6,4 +6,4 @@ menu: Kontakt
 permalink: /kontakt/
 ---
 
-# admin@reachandmeasure.se
+hello@reachandmeasure.se
