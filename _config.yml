@@ -14,7 +14,7 @@ github_username: reachandmeasure
 googlefont: Roboto
 googlefontweights: "100;400;900"
 
-# gtm: GTM-XXXX
+gtm: GTM-KZMQKB3
 
 sass:
   sass_dir: _lib
