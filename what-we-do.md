@@ -10,8 +10,4 @@ description: >-
 
 # Vad sysslar vi med då kanske du undrar
 
-- Vi är bäst
-- På det mästa
-- för de flästa
-
-Click=cash
+Click -> cash
