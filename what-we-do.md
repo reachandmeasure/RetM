@@ -11,9 +11,10 @@ description: >-
 # Vad sysslar vi med då kanske du undrar
 
 - Analytics (GA, GTM, GDS)
+- Content (strategi, projektledning, text, film, bild, ljud, musik)
+- Design (UX, grafisk)
 - SEM (Google Ads)
-- Content (text, film, bild, ljud, musik)
+- SEO (on/off-page, tech)
 - Utveckling (webb, app, e-handel)
-- och SEO för att hålla ihop allt
 
 Click -> cash
