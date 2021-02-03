@@ -7,3 +7,5 @@ permalink: /kontakt/
 ---
 
 hello@reachandmeasure.se
+
+Kort och gott.
