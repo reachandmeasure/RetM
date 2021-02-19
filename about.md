@@ -6,7 +6,7 @@ permalink: /om/
 ---
 
 ## Reach & Measure producerar content och mäter resultatet
-Vi är er partner inom content marketing, Search Engine Optimization (SEO), Search Engine Marketing (SEM). Vi hjälper er att utveckla, driva och optimera er närvaro på nätet. 
+Vi är er partner inom content marketing, SEO, SEM och webbanalys. Vi hjälper er att utveckla, driva och optimera er närvaro på nätet. 
 – Alltid med överskådlig och begriplig analys 
 – Alltid med era kunders behov och beteende i fokus 
 – Alltid i linje med era affärsmål 
