@@ -10,11 +10,11 @@ description: >-
 
 ## Vad sysslar vi med då kanske du undrar
 
-- Analytics (GA, GTM, GDS)
-- Content (strategi, projektledning, text, film, bild, ljud, musik)
-- Design (UX, grafisk)
-- SEM (Google Ads)
-- SEO (on/off-page, tech)
-- Utveckling (webb, app, e-handel)
+- Beteende- och optimeringsanalys
+- Content: strategi, projektledning, text, film, bild, ljud, musik)
+- Design: UX, grafisk, copy
+- Search Engine Marketing (SEM: Google Ads)
+- SEO: on/off-page, tech
+- Utveckling: webb, app, e-handel
 
-Click -> cash
+[Kontakta oss](https://reachandmeasure.se/kontakt/) så berättar vi mer om hur.
