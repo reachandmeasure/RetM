@@ -6,6 +6,5 @@ menu: Kontakt
 permalink: /kontakt/
 ---
 
+Maila oss så hör vi av oss inom kort:
 ### hello@reachandmeasure.se
-
-Kort och gott.
