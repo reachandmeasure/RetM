@@ -8,13 +8,13 @@ description: >-
     All Content, SEO, SEM, Analytics Everything
 ---
 
-## Vad sysslar vi med då kanske du undrar
+## Vad vi gör
 
 - Beteende- och optimeringsanalys
-- Content: strategi, projektledning, text, film, bild, ljud, musik)
-- Design: UX, grafisk, copy
-- Search Engine Marketing (SEM: Google Ads)
-- SEO: on/off-page, tech
-- Utveckling: webb, app, e-handel
+- Content: strategi, projektledning, text, film, bild, ljud och musik.
+- UX: grafisk och copy.
+- SEM (aka sökordannonsering och specifkt Google Ads).
+- SEO (aka sökmotoroptimering): on/off-page och teknisk.
+- Utveckling: webb, app och e-handel.
 
 [Kontakta oss](https://reachandmeasure.se/kontakt/) så berättar vi mer om hur.
