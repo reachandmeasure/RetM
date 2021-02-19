@@ -10,7 +10,7 @@ description: >-
 
 ## Vad vi gör
 
-- Beteende- och optimeringsanalys
+- Beteende- och optimeringsanalys.
 - Content: strategi, projektledning, text, film, bild, ljud och musik.
 - UX: grafisk och copy.
 - SEM (aka sökordannonsering och specifkt Google Ads).
