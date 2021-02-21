@@ -12,7 +12,7 @@ description: >-
 
 - Samlar in, analyserar och tar fram handlingsbara insikter av data.
 - Producerar content: strategi, projektledning, text, film, bild, ljud och musik.
-- UX: grafisk och copy.
+- UX: design och copy.
 - SEM (aka sökordannonsering och specifkt Google Ads).
 - SEO (aka sökmotoroptimering): on/off-page och teknisk.
 - Utvecklar webb, app och e-handel.
